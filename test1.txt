@@ -1,0 +1,11 @@
+100 5480 a
+101 1431 aardvark
+102 10898 aardvarks
+103 1084 abaci
+104 6664 aback
+105 19490 abacus
+106 957 abacuses
+107 3091 abaft
+108 8489 abalone
+109 8012 abalones
+110 19202 abandon
